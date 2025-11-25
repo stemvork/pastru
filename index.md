@@ -2,7 +2,7 @@
 
 <div style="text-align: center">
 
-# Template
+# Patronen en Structuren
 
 </div>
 
