@@ -1,6 +1,6 @@
 # Voorkennis
 
-In de onderbouw heb je al diverse dingen geleerd over `meetkunde`. Hier een samenvatting van de behandelde onderwerpen op basis van de kerndoelen vanuit het SLO.
+In de onderbouw heb je al diverse dingen geleerd over `Meetkunde`. Hier een samenvatting van de behandelde onderwerpen op basis van de kerndoelen vanuit het SLO.
 
 ## Voorkennis Meetkunde (Onderbouw VO)
 
