@@ -2,11 +2,11 @@
 version: 1
 project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
-  title: Template
-  # description:
-  # keywords: []
-  authors: [Freek Pols]
-  github: https://github.com/TUD-SEEd/template # Change this URL to your GitHub repository
+  title: Patronen en Structuren
+  description: Wiskunde gaat over patronen en structuren. In dit boek verzamel ik informatie en opdrachten voor leerlingen van het Emmauscollege. Dit begint met `Meetkunde` in het schooljaar 2025-2026.
+  keywords: [wiskunde,methode,boek,structuren,patronen,middelbare school]
+  authors: [Jasper Eenhoorn]
+  github: https://github.com/stemvork/pastru/
   downloads:
     - id: output-pdf
   exports:
