@@ -24,7 +24,7 @@ $$
 \mathbb{R}
 $$
 
-Daar behoort ook \(\pi\) toe.
+Daar behoort ook $\pi$ toe.
 
 ---
 
@@ -32,13 +32,13 @@ Daar behoort ook \(\pi\) toe.
 
 Een groot aantal problemen binnen de wiskunde vereist het oplossen van vergelijkingen of ongelijkheden. Het aantal oplossingen van een vergelijking hangt af van een keuze: **in welke verzameling getallen gaan we zoeken?**
 
-In de natuurlijke getallen \(\mathbb{N}_0\) heeft de vergelijking
+In de natuurlijke getallen $\mathbb{N}_0$ heeft de vergelijking
 
 $$
 x+1=0
 $$
 
-bijvoorbeeld geen oplossing. Want de oplossing \(x=-1\) behoort tot de verzameling van gehele getallen \(\mathbb{Z}\).
+bijvoorbeeld geen oplossing. Want de oplossing $x=-1$ behoort tot de verzameling van gehele getallen $\mathbb{Z}$.
 
 Bedenk zelf eens een vergelijking die je kunt oplossen en ga na in welke verzameling de oplossingen thuishoren.
 
@@ -48,7 +48,7 @@ $$
 x^2+4=0
 $$
 
-heeft geen oplossingen in \(\mathbb{R}\), want bij \(x^2=-4\) kunnen we geen worteltrekken: het rechterlid is negatief.
+heeft geen oplossingen in $\mathbb{R}$, want bij $x^2=-4$ kunnen we geen worteltrekken: het rechterlid is negatief.
 
 Of je zou ook de discriminant van
 
@@ -62,7 +62,7 @@ $$
 D=16-40=-24
 $$
 
-Omdat \(D<0\) zijn er geen reële oplossingen. Nou ja… **in welke verzameling getallen dan?** De grootste verzameling die je tot nu toe kent is die van de reële getallen.
+Omdat $D<0$ zijn er geen reële oplossingen. Nou ja… **in welke verzameling getallen dan?** De grootste verzameling die je tot nu toe kent is die van de reële getallen.
 
 ---
 
@@ -80,22 +80,22 @@ Ze zijn sterk verweven met hoe wij als mensen denken. Maar één ding is duideli
 
 ---
 
-## Een nieuw getal: \(i\)
+## Een nieuw getal: $i$
 
 In dit hoofdstuk leer je een nieuwe verzameling getallen: de **complexe getallen**. Daarmee kunnen we meer soorten vergelijkingen oplossen, en krijgen we nieuwe getallen met hun eigen rekenregels en bijzonderheden.
 
 Die ontdekkingstocht begint bij de volgende vraag:
 
-> Wat als er een getal is, dat in het kwadraat \(-1\) geeft?
+> Wat als er een getal is, dat in het kwadraat $-1$ geeft?
 
 Dat kan toch niet, want een kwadraat is altijd positief… *(weerstand!)*  
-Vanaf nu spreken we af dat er tóch zo’n getal bestaat. We noemen het \(i\) en we leggen vast:
+Vanaf nu spreken we af dat er tóch zo’n getal bestaat. We noemen het $i$ en we leggen vast:
 
 $$
 i^2=-1
 $$
 
-Dit \(i\) heet de **imaginaire eenheid**.
+Dit $i$ heet de **imaginaire eenheid**.
 
 ---
 
@@ -113,7 +113,7 @@ $$
 z^2=-25
 $$
 
-En omdat \(i^2=-1\), mogen we ook schrijven:
+En omdat $i^2=-1$, mogen we ook schrijven:
 
 $$
 -25 = 25i^2
@@ -131,15 +131,15 @@ Maar eerlijk is eerlijk: we hebben nog niet geleerd of dat *altijd* mag in deze 
 
 Dus we redeneren vanaf de andere kant:
 
-- \(z=5i\) kan een oplossing zijn, want
+- $z=5i$ kan een oplossing zijn, want
 
   $$
   z^2=(5i)^2=25i^2=-25
   $$
 
-  en dus klopt \(z^2+25=0\).
+  en dus klopt $z^2+25=0$.
 
-Maar er zijn er meer, want \(z=-5i\) is ook een oplossing!
+Maar er zijn er meer, want $z=-5i$ is ook een oplossing!
 
 $$
 z^2=(-5i)^2=25i^2=-25
@@ -169,17 +169,17 @@ x=4
 x=-4
 $$
 
-De getallen die een veelvoud van \(i\) zijn noemen we **imaginair**, omdat we ze ons vroeger moeilijk konden voorstellen. We schrijven de imaginaire getallen als:
+De getallen die een veelvoud van $i$ zijn noemen we **imaginair**, omdat we ze ons vroeger moeilijk konden voorstellen. We schrijven de imaginaire getallen als:
 
 $$
 bi \quad \text{met } b\in\mathbb{R}
 $$
 
-En voor het imaginaire getal \(i\) geldt dus altijd:
+En voor het imaginaire getal $i$ geldt dus altijd:
 
 $$
 i^2=-1
 $$
 
 Vanaf nu kun je dus ineens **alle kwadratische vergelijkingen** oplossen…  
-(in \(\mathbb{C}\), de verzameling van complexe getallen dan, dat dan weer wel 😉).
+(in $\mathbb{C}$, de verzameling van complexe getallen dan, dat dan weer wel 😉).
